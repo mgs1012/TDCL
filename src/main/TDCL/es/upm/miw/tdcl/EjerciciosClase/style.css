@@ -3,6 +3,9 @@
 thead {
 	text-align: center;
 	background-color: #1E90FF;
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
 }
 
 tbody {
@@ -11,10 +14,10 @@ tbody {
 
 tfoot {
 	text-align: center;
-	background-color: #FFD700;
+	background-color: #a4dbf9;
 }
 
-tablaDentro {
+#tablaDentro {
 	width: 100%; border ="1"; cellspacing ="5";
 	text-align: center;
 }
