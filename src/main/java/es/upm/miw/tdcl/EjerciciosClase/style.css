@@ -14,18 +14,26 @@ tfoot {
 	background-color: #FFD700;
 }
 
-tablaDentro{
-	width: 100%;
-	 border="1";
-	 cellspacing="5";
+tablaDentro {
+	width: 100%; border ="1"; cellspacing ="5";
+	text-align: center;
 }
 
 .diasSemana {
 	font-weight: bold;
+	background-color: white;
+}
+
+.horas {
+	font-weight: bold;
 	background-color: #FFD700;
 }
 
-#descanso{
+#descanso {
 	text-align: center;
 	background-color: #ff208f;
+}
+
+table, td, th {
+	border: 1px solid gray
 }
